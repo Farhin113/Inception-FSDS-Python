@@ -36,12 +36,12 @@ please chose
 4.Enter 4 for Deposet
 5.Exit                       
 """)
-
+ 
 if manu=="1":
-    print("pin change")
+   print("pin change")
 
 elif manu=="2":
-    print("Blance cheak")
+   print("Blance cheak")
 
 elif manu=="3":
     print("Whitdrow")    
@@ -50,4 +50,4 @@ elif manu=="4":
     print("Deposet") 
 
 else:
-    print("Exit")    
+    print("Exit")   
